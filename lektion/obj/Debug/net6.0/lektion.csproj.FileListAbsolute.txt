@@ -1,0 +1,15 @@
+F:\manu\C#\lesson1\lektion\bin\Debug\net6.0\lektion.exe
+F:\manu\C#\lesson1\lektion\bin\Debug\net6.0\lektion.deps.json
+F:\manu\C#\lesson1\lektion\bin\Debug\net6.0\lektion.runtimeconfig.json
+F:\manu\C#\lesson1\lektion\bin\Debug\net6.0\lektion.dll
+F:\manu\C#\lesson1\lektion\bin\Debug\net6.0\lektion.pdb
+F:\manu\C#\lesson1\lektion\obj\Debug\net6.0\lektion.csproj.AssemblyReference.cache
+F:\manu\C#\lesson1\lektion\obj\Debug\net6.0\lektion.GeneratedMSBuildEditorConfig.editorconfig
+F:\manu\C#\lesson1\lektion\obj\Debug\net6.0\lektion.AssemblyInfoInputs.cache
+F:\manu\C#\lesson1\lektion\obj\Debug\net6.0\lektion.AssemblyInfo.cs
+F:\manu\C#\lesson1\lektion\obj\Debug\net6.0\lektion.csproj.CoreCompileInputs.cache
+F:\manu\C#\lesson1\lektion\obj\Debug\net6.0\lektion.dll
+F:\manu\C#\lesson1\lektion\obj\Debug\net6.0\refint\lektion.dll
+F:\manu\C#\lesson1\lektion\obj\Debug\net6.0\lektion.pdb
+F:\manu\C#\lesson1\lektion\obj\Debug\net6.0\lektion.genruntimeconfig.cache
+F:\manu\C#\lesson1\lektion\obj\Debug\net6.0\ref\lektion.dll
